@@ -1,7 +1,20 @@
 body
 {
-    color: crimson;
+    color: midnightblue;
     text-align: center;
     font-family: "Helvetica";
     font-size: smaller;
 }
+#container
+{
+    width: 80%;
+    padding: 2em;
+    text-align: center;
+    border: 5px solid mediumaquamarine;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 25px;
+} 
